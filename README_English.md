@@ -6,6 +6,11 @@ This project is a demo implementation of an enterprise-grade RAG system, demonst
 
 Built as a hands-on learning project to explore production-ready RAG architectures and multi-agent collaboration patterns.
 ---
+## 🏗️ System Architecture
+![Multi-Agent RAG System Architecture](assets/architecture.png)
+
+This system uses a 3-layer architecture design, from data processing to agent collaboration, fully covering the entire workflow of enterprise-grade RAG applications.
+---
 ## ✨ Key Features
 - **Multi-Agent Architecture**: 4 specialized agents working collaboratively (Retrieval, Analysis, Fact-Checking, Reporting)
 - **Vector Retrieval**: Chroma-based semantic search with local vector database support
